@@ -1,2 +1,4 @@
 # CKII-UK-Politics
-A mod
+A mod for Crusader Kings 2 made for the UKPolitics subreddit.
+
+To install, download the Zip file and extract into "Documents/Paradox Interactive/Crusader Kings II/mod"
