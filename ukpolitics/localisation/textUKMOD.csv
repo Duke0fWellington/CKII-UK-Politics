@@ -1,15 +1,24 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 
-#PARTIES
+#traits
 labour;Labour;;;;;;;;;;;;;x
 labour_desc;This character is currently a member of the Labour party.;;;;;;;;;;;;;x
 conservative;Conservative;;;;;;;;;;;;;x
 conservative_desc;This character is currently a member of the Conservative party.;;;;;;;;;;;;;x
-
 party_leader;Party Leader;;;;;;;;;;;;;x
 party_leader_desc;This character is currently the leader of a major political party.;;;;;;;;;;;;;x
 
-#PARTY EMPIRES
+#empire names
 e_conservatives;Conservatives;;;;;;;;;;;;;x
 e_labour;Labour;;;;;;;;;;;;;x
 e_snp;SNP;;;;;;;;;;;;;x
+e_other;Other;;;;;;;;;;;;;x
+e_eire;Eire;;;;;;;;;;;;;x
+
+#Council positions renamed
+job_chancellor;Foreign Secretary;VOID;VOID;;VOID;;;;;;;;;x
+job_marshal;Defence Secretary;VOID;VOID;;VOID;;;;;;;;;x
+job_treasurer;Chancellor of the Exchequer;VOID;VOID;;VOID;;;;;;;;;x
+job_spymaster;Home Secretary;VOID;VOID;;VOID;;;;;;;;;x
+job_spiritual;Justice Secretary;VOID;VOID;;VOID;;;;;;;;;x
+job_spiritual_christian;Justice Secretary;Chapelain de la Cour;Hofprediger;;Capellán;;;;;;;;;x

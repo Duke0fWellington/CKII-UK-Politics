@@ -10,6 +10,14 @@ e_snp = {
 	primary = yes
 	color={ 240 230 40 }
 }
+e_other = {
+	primary = yes
+	color={ 40 40 40 }
+}
+e_eire = {
+	primary = yes
+	color={ 40 230 40 }
+}
 
 e_rebels = {
 	rebel = yes
