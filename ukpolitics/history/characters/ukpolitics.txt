@@ -21,7 +21,7 @@
 	}
 }
 100003 = {
-	name=Sturgeon
+	name=Nicola
 	dynasty=756
 	religion="catholic"
 	culture="saxon"

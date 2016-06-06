@@ -1,5 +1,19 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 
+#bookmarks
+BM_2015;Post 2015;;;;;;;;;;;;;x
+BM_2015_DESC;Well Ed lost and Dave won. Ukip were a bit rubbish. SNP took scotland. 'Nuff said.;;;;;;;;;;;;;x
+BM_2015_ERA;Post 2015;;;;;;;;;;;;;x
+BM_2015_ERA_INFO;Well Ed lost and Dave won. Ukip were a bit rubbish. SNP took scotland. 'Nuff said.;;;;;;;;;;;;;x
+ERA_CHAR_NAME_100001;David Cameron;;;;;;;;;;;;;x
+ERA_CHAR_INFO_100001;Dave's description;;;;;;;;;;;;;x
+ERA_CHAR_NAME_100002;Jeremy Corbyn;;;;;;;;;;;;;x
+ERA_CHAR_INFO_100002;Jeremy's description;;;;;;;;;;;;;x
+ERA_CHAR_NAME_100003;Nicola Sturgeon;;;;;;;;;;;;;x
+ERA_CHAR_INFO_100003;Nicola's description;;;;;;;;;;;;;x
+ERA_CHAR_NAME_100004;Other;;;;;;;;;;;;;x
+ERA_CHAR_INFO_100004;Others's description;;;;;;;;;;;;;x
+
 #traits
 labour;Labour;;;;;;;;;;;;;x
 labour_desc;This character is currently a member of the Labour party.;;;;;;;;;;;;;x
