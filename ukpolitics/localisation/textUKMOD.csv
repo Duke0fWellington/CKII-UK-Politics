@@ -1,0 +1,15 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+#PARTIES
+labour;Labour;;;;;;;;;;;;;x
+labour_desc;This character is currently a member of the Labour party.;;;;;;;;;;;;;x
+conservative;Conservative;;;;;;;;;;;;;x
+conservative_desc;This character is currently a member of the Conservative party.;;;;;;;;;;;;;x
+
+party_leader;Party Leader;;;;;;;;;;;;;x
+party_leader_desc;This character is currently the leader of a major political party.;;;;;;;;;;;;;x
+
+#PARTY EMPIRES
+e_conservatives;Conservatives;;;;;;;;;;;;;x
+e_labour;Labour;;;;;;;;;;;;;x
+e_snp;SNP;;;;;;;;;;;;;x

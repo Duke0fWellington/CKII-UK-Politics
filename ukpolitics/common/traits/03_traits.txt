@@ -1,0 +1,29 @@
+labour = {
+	intrigue = 1
+	diplomacy = 1
+	opposite_opinion = -10
+	vassal_opinion = 10
+	same_opinion = 10
+	opposites = {
+		trait = conservative
+	}
+}
+
+conservative = {
+	intrigue = 1
+	diplomacy = 1
+	opposite_opinion = -10
+	vassal_opinion = 10
+	same_opinion = 10
+	opposites = {
+		trait = labour
+	}
+}
+
+party_leader = {
+	intrigue = 1
+	diplomacy = 2
+	stewardship = 2
+	vassal_opinion = 10
+	same_opinion = -10
+}

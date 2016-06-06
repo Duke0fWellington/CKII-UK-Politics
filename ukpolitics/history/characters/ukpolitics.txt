@@ -1,0 +1,38 @@
+100001 = {
+	name=David # Godwineson, king of England
+	dynasty=756
+	dna=medjejoencc
+	religion="catholic"
+	culture="saxon"
+	trait="conservative"
+	trait="party_leader"
+	trait="brilliant_strategist"
+	1022.1.1={
+		birth=yes
+	}
+}
+100002 = {
+	name=Jeremy
+	dynasty=756
+	dna=medjejoencc
+	religion="catholic"
+	culture="saxon"
+	trait="labour"
+	trait="party_leader"
+	trait="brilliant_strategist"
+	1022.1.1={
+		birth=yes
+	}
+}
+100003 = {
+	name=Sturgeon # Godwineson, king of England
+	dynasty=756
+	dna=medjejoencc
+	religion="catholic"
+	culture="saxon"
+	trait="party_leader"
+	trait="brilliant_strategist"
+	1022.1.1={
+		birth=yes
+	}
+}
